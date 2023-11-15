@@ -1,0 +1,51 @@
+#container {
+    align-items: center;
+    border: 2px solid rgb(207, 48, 104);
+    width: 450px;
+    height: 360px;
+    box-sizing: border-box;
+}
+
+.data,
+a {
+    border: 2px solid rgb(226, 33, 65);
+    width: 420px;
+    height: 37px;
+    /* border-color: brown; */
+    padding: px;
+    margin-top: 25px;
+    /* margin-bottom: 16px; */
+    /* margin-right: 16px; */
+    margin-left: 12px;
+}
+
+h1 {
+    margin: 4px;
+    font-weight: bolder;
+}
+
+.pra {
+    width: 420px;
+    height: 89px;
+}
+
+p {
+    margin: 4px;
+}
+
+.list {
+    width: 400px;
+    height: 30px;
+    margin-top: 14px;
+    margin-left: 8px;
+}
+
+.sec {
+    margin-top: 0.08px;
+    margin-left: 8px;
+}
+
+.seco {
+    margin-top: 10px;
+    margin-left: 8px;
+}
